@@ -1,3 +1,7 @@
+---
+name: duxiu-book-evidence
+description: 从读秀学术搜索(duxiu.com)检索教科书/工具书/技术手册类书证，为专利审查中的公知常识认定提供证据支撑。覆盖三级检索策略、Playwright浏览器自动化操作、书证提取与审查文书格式化输出。触发场景：公知常识证据、书证检索、读秀检索、教科书证据支撑。
+---
 # 读秀公知常识书证检索（Duxiu Book Evidence Search）
 
 ## 技能概览
